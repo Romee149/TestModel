@@ -1,0 +1,249 @@
+{
+	"customer": {
+		"customerGroup": "2",
+		"customerId": "eb4b2366-9d00-411d-83b0-49c0757027e7"
+	},
+	"newAccounts": [{
+		"Acct": {
+			"acct_bk": {
+				"_schVn": 0,
+				"_vn": 0,
+				"acctGroup": 3,
+				"acctNbr": "042420202102",
+				"acctTitle": "Latonya Block",
+				"acctType": "Single",
+				"desc": "Savings Account",
+				"isBrokered": true,
+				"isElectronicStmt": true,
+				"isPaperStmt": true,
+				"isWthFed": false,
+				"isWthNra": false,
+				"isWthState": false,
+				"signedDocs": [{
+					"docSubType": "1",
+					"docType": 1,
+					"signedBy": {
+						"_schVn": 0,
+						"ageBracket": 0,
+						"contactPref": 0,
+						"education": 0,
+						"employmentStatus": 0,
+						"ethnicity": 0,
+						"familiarName": "",
+						"gender": 0,
+						"incBracket": 0,
+						"maidenName": "",
+						"maritalStatus": 0,
+						"middleName": "",
+						"moGrossInc": 0,
+						"mothersMaidenName": "",
+						"name": "Neha",
+						"nbrInHhold": 0,
+						"occupation": 0,
+						"prefix": "",
+						"residencyStatus": 0,
+						"spouse": "",
+						"studentType": 0,
+						"suffix": "",
+						"tinType": 0,
+						"webAddr": ""
+					},
+					"signedDtm": "2020-02-06T05:00:00Z",
+					"version": "1"
+				}, {
+					"docSubType": "1",
+					"docType": 2,
+					"signedBy": {
+						"_schVn": 0,
+						"ageBracket": 0,
+						"contactPref": 0,
+						"education": 0,
+						"employmentStatus": 0,
+						"ethnicity": 0,
+						"familiarName": "",
+						"gender": 0,
+						"incBracket": 0,
+						"maidenName": "",
+						"maritalStatus": 0,
+						"middleName": "",
+						"moGrossInc": 0,
+						"mothersMaidenName": "",
+						"name": "Neha",
+						"nbrInHhold": 0,
+						"occupation": 0,
+						"prefix": "",
+						"residencyStatus": 0,
+						"spouse": "",
+						"studentType": 0,
+						"suffix": "",
+						"tinType": 0,
+						"webAddr": ""
+					},
+					"signedDtm": "2020-02-06T05:00:00Z",
+					"version": "1"
+				}],
+				"stmtFreq": "0ME",
+				"tmZoneCode": "usnyc",
+				"localeData": {
+					"referenceId": "shilpa"
+				}
+			},
+			"posn_depDtl": [{
+				"posn_dep": {
+					"_schVn": 0,
+					"_vn": 0,
+					"acctgSeg": {
+						"deptId": "350",
+						"vertical": "01"
+					},
+					"bal": 0,
+					"ccyCode": "USD",
+					"posnName": "Business Savings",
+					"prodName": "B2001",
+					"subBals": {
+						"_schVn": 0,
+						"_vn": 0,
+						"dec0": {
+							"accrInt": 0,
+							"avlInt": 0,
+							"fee": 0,
+							"ledger": 0,
+							"negAccr": 0,
+							"penalty": 0,
+							"wthFed": 0,
+							"wthState": 0
+						},
+						"dec2": {
+							"accrInt": 0,
+							"avlInt": 0,
+							"fee": 0,
+							"ledger": 0,
+							"negAccr": 0,
+							"penalty": 0,
+							"wthFed": 0,
+							"wthState": 0
+						},
+						"dec5": {
+							"accrInt": 0,
+							"avlInt": 0,
+							"fee": 0,
+							"ledger": 0,
+							"negAccr": 0,
+							"penalty": 0,
+							"wthFed": 0,
+							"wthState": 0
+						}
+					},
+					"tmZoneCode": "usnyc"
+				},
+				"prodName": "B2001"
+			}, {
+				"posn_dep": {
+					"_schVn": 0,
+					"_vn": 0,
+					"acctgSeg": {
+						"deptId": "350",
+						"vertical": "01"
+					},
+					"bal": 0,
+					"ccyCode": "USD",
+					"posnName": "18 Month Compounding-Business",
+					"prodName": "B3018",
+					"subBals": {
+						"_schVn": 0,
+						"_vn": 0,
+						"dec0": {
+							"accrInt": 0,
+							"avlInt": 0,
+							"fee": 0,
+							"ledger": 0,
+							"negAccr": 0,
+							"penalty": 0,
+							"wthFed": 0,
+							"wthState": 0
+						},
+						"dec2": {
+							"accrInt": 0,
+							"avlInt": 0,
+							"fee": 0,
+							"ledger": 0,
+							"negAccr": 0,
+							"penalty": 0,
+							"wthFed": 0,
+							"wthState": 0
+						},
+						"dec5": {
+							"accrInt": 0,
+							"avlInt": 0,
+							"fee": 0,
+							"ledger": 0,
+							"negAccr": 0,
+							"penalty": 0,
+							"wthFed": 0,
+							"wthState": 0
+						}
+					},
+					"tmZoneCode": "usnyc"
+				},
+				"prodName": "B3018"
+			}, {
+				"posn_dep": {
+					"_schVn": 0,
+					"_vn": 0,
+					"acctgSeg": {
+						"deptId": "350",
+						"vertical": "01"
+					},
+					"bal": 0,
+					"ccyCode": "USD",
+					"posnName": "Interest Checking",
+					"prodName": "C2001",
+					"subBals": {
+						"_schVn": 0,
+						"_vn": 0,
+						"dec0": {
+							"accrInt": 0,
+							"avlInt": 0,
+							"fee": 0,
+							"ledger": 0,
+							"negAccr": 0,
+							"penalty": 0,
+							"wthFed": 0,
+							"wthState": 0
+						},
+						"dec2": {
+							"accrInt": 0,
+							"avlInt": 0,
+							"fee": 0,
+							"ledger": 0,
+							"negAccr": 0,
+							"penalty": 0,
+							"wthFed": 0,
+							"wthState": 0
+						},
+						"dec5": {
+							"accrInt": 0,
+							"avlInt": 0,
+							"fee": 0,
+							"ledger": 0,
+							"negAccr": 0,
+							"penalty": 0,
+							"wthFed": 0,
+							"wthState": 0
+						}
+					},
+					"tmZoneCode": "usnyc"
+				},
+				"prodName": "C2001"
+			}]
+			
+		},
+		"AcctPartyRel": {
+			"_schVn": 0,
+			"_vn": 0,
+			"partyAcctName": "Latonya Block",
+			"partyPct": 100,
+			"relType": "1"
+		}
+	}]
+}

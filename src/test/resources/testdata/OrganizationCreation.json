@@ -1,0 +1,87 @@
+{
+    "addresses": [
+        {
+            "_schVn": 0,
+            "_vn": 0,
+            "addrType": 4,
+            "city": "Texas",
+            "cntry": "US",
+            "postCode": "19356",
+            "region": "PA",
+            "street": "101 Main St",
+            "validFromDtm": "{{timestamp}}Z_YYYY-MM-DDThh:mm:ss",
+            "yrsAddr": 0,
+            "adrTypeEntry": 0
+        }
+    ],
+    "customer": {
+        "customerGroup": "2",
+      
+        "loginId": "Mickey@sav.com",
+        "startDtm": "{{timestamp}}Z_YYYY-MM-DDThh:mm:ss"
+    },
+    "party_org": {
+        "_schVn": 0,
+        "_vn": 0,
+        "cntry": "US",
+        "desc": "Autogen Org",
+        "emails": [
+            {
+                "_schVn": 0,
+                "_vn": 0,
+                "data": "Mickey@sav.com",
+                "emailType": 2,
+                "isPreferred": false,
+                "verifyDtm": "{{timestamp}}Z_YYYY-MM-DDThh:mm:ss"
+            }
+        ],
+        "estDate": "1999-06-01",
+        "name": "TestOrg",
+        "party_orgDueDiligence": {
+            "_schVn": 0,
+            "_vn": 0,
+            "acceptRccPmt": false,
+            "acctPurpose": 0,
+            "amtACHMo": 0,
+            "amtMobileDepMo": 0,
+            "amtRemoteDepMo": 0,
+            "amtWiresMo": 0,
+            "chkGrtrThsnd": false,
+            "cntACHMo": 0,
+            "cntMobileDepMo": 0,
+            "cntRemoteDepMo": 0,
+            "cntWiresMo": 0,
+            "estmtdAnnualRevenue": 0,
+            "hdqtrsCntry": "US",
+            "industry": 0,
+            "internetGamblingInc": false,
+            "intrmySvcs": [],
+            "isAtmOper": false,
+            "isCharity": false,
+            "isMarijuanaBusiness": false,
+            "isThirdPartyBenefit": false,
+            "mnyOrderGrtrThsnd": false,
+            "nbrLoc": 0,
+            "nonCashActivities": false,
+            "operCntry": [],
+            "pctRevenueMnySvcs": 0,
+            "structure": 0,
+            "tfrForCust": false,
+            "virtualCcy": false,
+            "yearsOwnBusiness": 0
+        },
+        "phones": [
+            {
+                "_schVn": 0,
+                "_vn": 0,
+                "data": "2819559777",
+                "isPreferred": false,
+                "phoneType": 0,
+                "verifyDtm": "{{timestamp}}Z_YYYY-MM-DDThh:mm:ss"
+            }
+        ],
+        "region": "PA",
+        "tin": "888777555",
+        "tinType": 1
+    }
+}

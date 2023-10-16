@@ -1,0 +1,12 @@
+{            
+    "dfltChannels": [
+        {
+            "notifChannel": "EMAIL"
+        }
+    ],
+    "groupId": "2",
+    "isNoSolicit": false,
+    "memberId": "43cab05b-4aa6-46e7-a5da-e3a71e7a1f5c",
+    "partyId": "4rSEIFabr19ANs6J7SSeLNyg",
+    "smsOptInStatus": 0
+}

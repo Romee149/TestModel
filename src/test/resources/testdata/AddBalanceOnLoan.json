@@ -1,0 +1,21 @@
+{
+    "entries": [
+        {
+            "acctGroup": 1,
+            "acctNbr": "000000099888",
+            "isDr": true,
+            "posnAcctNbr": "000000099888",
+            "comment": "",
+            "ccyCode": "USD",
+            "trnAmt": 600
+        },
+        {
+            "acctGroup": 1,
+            "acctNbr": "000000002503",
+            "isDr": false,
+            "trnAmt": 600
+        }
+    ],
+    "mode": 2,
+    "trnCode": "915"
+}

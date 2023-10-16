@@ -1,0 +1,24 @@
+{
+	"entries": [
+		{
+			"acctGroup": 1,
+			"acctNbr": "{{acctNbr}}",
+			"entryName": "CSR Misc Credit",
+			"isDr": false,
+			"posnAcctNbr": "{{posnAcctNbr}}",
+			"posnId": "{{posnId}}",
+			"trnAmt": 2000
+		},
+		{
+			"_Ix": 1,
+			"acctGroup": 2,
+			"acctNbr": "57670",
+			"ccyCode": "USD",
+			"entryName": "Cash Offset",
+			"isDr": true,
+			"trnAmt": 2000
+		}
+	],
+	"mode": 2,
+	"trnCode": "138"
+}

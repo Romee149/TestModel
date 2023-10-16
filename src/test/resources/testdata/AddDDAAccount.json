@@ -1,0 +1,53 @@
+{
+	"customer": {
+		"customerGroup": "2",
+		"customerId": "9729a5f2-00e9-4ff1-a31d-7d35b5b619aa"
+	},
+	"newAccounts": [{
+		"Acct": {
+			"acct_bk": {
+				"_schVn": 0,
+				"_vn": 0,
+				"acctGroup": 1,
+				"acctTitle": "Auto Test Account",
+				"acctType": "Single",
+				"desc": "Auto Test Account Description",
+				"isBrokered": false,
+				"isElectronicStmt": true,
+				"isPaperStmt": false,
+				"isWthFed": false,
+				"isWthNra": false,
+				"isWthState": false,
+				"signedDocs": [],
+				"stmtFreq": "0ME",
+				"tmZoneCode": "utc"
+			},
+			"posn_depDtl": [{
+				"posn_dep": {
+					"_schVn": 0,
+					"_vn": 0,
+					"acctgSeg": {
+						"deptId": "350",
+						"vertical": "01"
+					},
+					"bal": 0,
+					"ccyCode": "USD",
+					"posnName": "Personal Savings-API",
+					"prodName": "P2001",
+					
+					"tmZoneCode": "utc"
+				},
+				"prodName": "P2001"
+			}],
+			"prodName": "P2001"
+		},
+		"AcctPartyRel": {
+			"_schVn": 0,
+			"_vn": 0,
+			"partyAcctName": "Test Account Name",
+			"partyPct": 100,
+			"relType": "1",
+            "hasAccessRights": true
+		}
+	}]
+}

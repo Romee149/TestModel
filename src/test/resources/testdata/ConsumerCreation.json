@@ -1,0 +1,76 @@
+{
+	"addresses": [{
+		"_schVn": 0,
+		"_vn": 0,
+		"addrType": 0,
+		"city": "Malvern",
+		"cntry": "US",
+		"postCode": "19355",
+		"region": "PA",
+		"street": "100 Main St",
+		"verifyDtm": "{{timestamp}}Z_YYYY-MM-DDThh:mm:ss",
+		"yrsAddr": 3
+	}],
+	"customer": {
+		"customerGroup": 2,
+		"startDtm": "{{timestamp}}Z_YYYY-MM-DDThh:mm:ss"
+	},
+	"party_person": {
+		"_schVn": 0,
+		"ageBracket": 0,
+		"birthDate": "1932-07-02",
+		"cntry": "US",
+		"contactPref": 0,
+		"education": 0,
+		"emails": [{
+			"_schVn": 0,
+			"data": "myTest@yop.com",
+			"emailType": 1,
+			"isPreferred": true,
+			"verifyDtm": "{{timestamp}}Z_YYYY-MM-DDThh:mm:ss"
+		}],
+		"employmentStatus": 0,
+		"ethnicity": 0,
+		"familiarName": "",
+		"firstName": "AutoFN",
+		"gender": 0,
+		"incBracket": 0,
+		"lastName": "AutoLN",
+		"maritalStatus": 0,
+		"middleName": "",
+		"moGrossInc": 0,
+		"mothersMaidenName": "MyTest",
+		"nbrInHhold": 0,
+		"occupation": 0,
+		"party_personDueDiligence": {
+			"_vn": 0,
+			"assocFrgnSrPolFig": 1,
+			"cntry": "US",
+			"frgnSrPolFig": false
+		},
+		"party_personUSSvcMember": {
+			"activeDutyDts": [{}],
+			"payGrade": 0,
+			"rank": 0,
+			"status": 0,
+			"svcBranch": 0
+		},
+		"phones": [{
+			"_schVn": 0,
+			"data": "2819559778",
+			"isPreferred": true,
+			"phoneType": 0,
+			"verifyDtm": "{{timestamp}}Z_YYYY-MM-DDThh:mm:ss"
+		}],
+		"preferredLanguage": "en-US",
+		"prefix": "",
+		"residencyStatus": 1,
+		"spouse": "",
+		"studentType": 0,
+		"suffix": "",
+		"tin": "888777666",
+		"tinType": 0,
+		"webAddr": ""
+	}
+}
+
